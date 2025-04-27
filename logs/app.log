@@ -1,0 +1,533 @@
+2025-03-09 15:17:25 INFO  com_testcase_registerpage:27 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 15:17:26 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 15:17:29 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 15:17:29 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 15:17:30 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 15:17:30 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 15:32:01 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 15:32:02 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 15:32:03 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 15:32:03 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 15:32:04 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 15:32:04 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 15:54:57 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 15:54:58 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 15:54:59 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 15:54:59 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 15:55:00 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 15:55:00 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 15:59:07 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 15:59:07 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 15:59:09 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 15:59:09 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 15:59:10 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 15:59:10 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:00:08 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:00:09 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:00:10 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:00:10 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:00:11 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:00:11 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:07:18 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:07:19 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:07:20 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:07:20 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:07:21 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:07:21 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:28:09 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:28:09 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:28:11 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:28:13 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:28:13 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:28:13 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:30:31 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:30:31 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:30:32 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:30:33 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:30:34 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:30:34 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:38:00 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:38:00 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:38:02 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:38:02 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:38:03 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:38:03 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:39:19 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:39:19 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:39:20 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:39:20 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:39:21 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:39:21 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:41:53 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:41:53 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:41:56 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:41:56 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:41:57 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:41:57 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:44:33 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:44:33 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:44:34 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:44:35 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:44:35 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:44:35 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:46:41 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:46:42 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:46:43 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:46:44 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:46:44 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:46:44 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:50:14 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:50:14 INFO  com_testcase_registerpage:35 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:50:15 INFO  com_testcase_registerpage:36 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:50:16 INFO  com_testcase_registerpage:38 - User enters lastname and the Xpath istest
+2025-03-09 16:50:16 INFO  com_testcase_registerpage:40 - User enters phone and the Xpath isneelam
+2025-03-09 16:50:16 INFO  com_testcase_registerpage:42 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:55:55 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:55:56 INFO  com_testcase_registerpage:36 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:55:58 INFO  com_testcase_registerpage:37 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:55:59 INFO  com_testcase_registerpage:39 - User enters lastname and the Xpath istest
+2025-03-09 16:55:59 INFO  com_testcase_registerpage:41 - User enters phone and the Xpath isneelam
+2025-03-09 16:55:59 INFO  com_testcase_registerpage:43 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:56:43 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:56:43 INFO  com_testcase_registerpage:36 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:56:44 INFO  com_testcase_registerpage:37 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:56:45 INFO  com_testcase_registerpage:39 - User enters lastname and the Xpath istest
+2025-03-09 16:56:45 INFO  com_testcase_registerpage:41 - User enters phone and the Xpath isneelam
+2025-03-09 16:56:45 INFO  com_testcase_registerpage:43 - ***************This Steps ended for ContactInformation***************
+2025-03-09 16:58:34 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 16:58:34 INFO  com_testcase_registerpage:37 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 16:58:35 INFO  com_testcase_registerpage:38 - User enters Firstname and the Xpath isneelam
+2025-03-09 16:58:36 INFO  com_testcase_registerpage:40 - User enters lastname and the Xpath istest
+2025-03-09 16:58:36 INFO  com_testcase_registerpage:42 - User enters phone and the Xpath isneelam
+2025-03-09 16:58:36 INFO  com_testcase_registerpage:44 - ***************This Steps ended for ContactInformation***************
+2025-03-09 17:14:05 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-09 17:14:05 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-09 17:14:07 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-03-09 17:14:08 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-03-09 17:14:09 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-03-09 17:14:09 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+<<<<<<< HEAD
+2025-03-14 15:01:16 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:01:17 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:01:17 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:01:17 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:01:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:01:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:01:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:41:17 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:41:17 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:17 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:41:17 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:41:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:41:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is neelam
+2025-03-14 15:41:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is test
+2025-03-14 15:41:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is 9078978789
+2025-03-14 15:41:18 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:18 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:41:19 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:41:19 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:42:41 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:42:41 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:41 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is neelam
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is test
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is 9078978789
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:42 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:42:42 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:42:43 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:46:25 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:46:26 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:26 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:46:26 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:26 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:46:26 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:26 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:46:26 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:26 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is neelam
+2025-03-14 15:46:26 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:27 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is test
+2025-03-14 15:46:27 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:27 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is 9078978789
+2025-03-14 15:46:27 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:27 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:46:27 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:27 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:46:27 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:46:27 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 15:48:35 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is neelam
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is test
+2025-03-14 15:48:36 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:36 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is 9078978789
+2025-03-14 15:48:37 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:37 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:48:37 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:37 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:48:37 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:48:37 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 15:52:02 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:52:02 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:02 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:52:02 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:02 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:52:02 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:03 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:52:03 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:03 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:52:03 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:03 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:52:03 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:52:03 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 15:57:58 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 15:57:58 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:57:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 15:57:59 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:58:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 15:58:00 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:58:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 15:58:00 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 15:58:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 16:03:52 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 16:03:52 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:52 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam
+2025-03-14 16:03:52 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:52 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 16:03:52 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:53 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 16:03:53 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:53 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 16:03:53 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:53 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 16:03:53 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:53 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 16:03:53 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:53 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='postalCode']and values is 1234
+2025-03-14 16:03:53 INFO  seleniumUIActions:46 - This sendkey is used for the xpath [[ChromeDriver: chrome on windows (898366add4050796b2c548011e863b2c)] -> xpath: //select[@name='country']]and values is INDIA
+2025-03-14 16:03:53 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:54 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test123
+2025-03-14 16:03:54 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:54 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 16:03:54 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:03:54 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 16:07:29 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 16:07:29 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam1
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 16:07:30 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:30 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='postalCode']and values is 1234
+2025-03-14 16:07:31 INFO  seleniumUIActions:46 - This sendkey is used for the xpath [[ChromeDriver: chrome on windows (1a994e4f25930b14a626c0bc635dd36c)] -> xpath: //select[@name='country']]and values is INDIA
+2025-03-14 16:07:31 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:31 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test1234
+2025-03-14 16:07:31 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:31 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 16:07:31 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:07:31 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 16:09:05 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 16:09:05 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:06 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam1
+2025-03-14 16:09:06 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:06 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 16:09:06 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:06 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 16:09:06 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:06 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 16:09:06 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:06 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 16:09:06 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:07 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 16:09:07 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:07 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='postalCode']and values is 1234
+2025-03-14 16:09:07 INFO  seleniumUIActions:46 - This sendkey is used for the xpath [[ChromeDriver: chrome on windows (b8312142c5b9461547b357597d167df4)] -> xpath: //select[@name='country']]and values is INDIA
+2025-03-14 16:09:07 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:07 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test1234
+2025-03-14 16:09:07 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:07 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 16:09:07 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:09:07 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 16:11:54 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam1
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='userName']and values is test@test.com
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:55 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 16:11:55 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:56 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 16:11:56 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:56 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='postalCode']and values is 1234
+2025-03-14 16:11:56 INFO  seleniumUIActions:46 - This sendkey is used for the xpath [[ChromeDriver: chrome on windows (39139cf4f0dff76d764a22f8863fee37)] -> xpath: //select[@name='country']]and values is INDIA
+2025-03-14 16:11:56 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:56 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test1234
+2025-03-14 16:11:56 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:56 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 16:11:56 INFO  seleniumUIActions:30 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-14 16:11:56 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+2025-03-14 16:30:57 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-14 16:30:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='firstName']and values is neelam1
+2025-03-14 16:30:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='lastName']and values is test
+2025-03-14 16:30:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='phone']and values is 9078978789
+2025-03-14 16:30:59 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='userName']and values is test@test.com
+2025-03-14 16:31:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='address1']and values is Chinchwad
+2025-03-14 16:31:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='city']and values is Pune
+2025-03-14 16:31:00 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='state']and values is Maharashtra
+2025-03-14 16:31:01 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='postalCode']and values is 1234
+2025-03-14 16:31:01 INFO  seleniumUIActions:46 - This sendkey is used for the xpath [[ChromeDriver: chrome on windows (fa2e7b5f28dbfb8bb0eb0955859c6e8c)] -> xpath: //select[@name='country']]and values is INDIA
+2025-03-14 16:31:01 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='email']and values is test1234
+2025-03-14 16:31:01 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='password']and values is password
+2025-03-14 16:31:02 INFO  seleniumUIActions:32 - This sendkey is used for the xpath //input[@name='confirmPassword']and values is password
+=======
+2025-03-15 07:40:28 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 07:41:05 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 07:41:46 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 07:41:56 INFO  seleniumUIActions:79 - alert is accepted
+2025-03-15 07:46:40 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 07:46:44 INFO  seleniumUIActions:79 - alert is accepted
+2025-03-15 07:48:29 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 07:48:32 INFO  seleniumUIActions:77 - alert message is I am an alert box!
+2025-03-15 07:48:32 INFO  seleniumUIActions:81 - alert is accepted
+<<<<<<< HEAD
+>>>>>>> 9008ac8baeff65090978d555645e6d8d6308b910
+2025-03-15 08:23:46 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 08:23:46 INFO  seleniumUIActions:84 - alert message is I am an alert box!
+2025-03-15 08:23:46 INFO  seleniumUIActions:88 - alert is accepted
+2025-03-15 08:23:47 INFO  seleniumUIActions:84 - alert message is Press a button!
+2025-03-15 08:23:47 INFO  seleniumUIActions:88 - alert is accepted
+=======
+2025-03-15 08:05:34 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 08:05:45 INFO  seleniumUIActions:99 - alert message is Please enter your name:
+2025-03-15 08:05:45 INFO  seleniumUIActions:104 - alert is accepted
+2025-03-15 08:05:47 INFO  seleniumUIActions:78 - alert message is I am an alert box!
+2025-03-15 08:05:47 INFO  seleniumUIActions:82 - alert is accepted
+2025-03-15 08:15:17 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 08:15:17 INFO  com_testcase_registerpage:52 - fierst
+2025-03-15 08:15:20 INFO  seleniumUIActions:99 - alert message is Please enter your name:
+2025-03-15 08:15:20 INFO  seleniumUIActions:104 - alert is accepted
+2025-03-15 08:15:21 INFO  seleniumUIActions:78 - alert message is I am an alert box!
+2025-03-15 08:15:21 INFO  seleniumUIActions:82 - alert is accepted
+2025-03-15 08:18:08 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-15 08:18:11 INFO  seleniumUIActions:78 - alert message is I am an alert box!
+2025-03-15 08:18:12 INFO  seleniumUIActions:82 - alert is accepted
+2025-03-15 08:18:13 INFO  seleniumUIActions:99 - alert message is Please enter your name:
+2025-03-15 08:18:13 INFO  seleniumUIActions:104 - alert is accepted
+<<<<<<< HEAD
+>>>>>>> ef28c6a88ffada925be8c0f6c0cf6ce20c52d9f9
+=======
+2025-03-22 07:17:31 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 07:20:36 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 07:25:24 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 15:41:25 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 15:41:26 INFO  com_testcase_datatble:43 - 0
+2025-03-22 15:42:55 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 15:42:55 INFO  com_testcase_datatble:43 - 0
+2025-03-22 15:43:24 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 15:43:25 INFO  com_testcase_datatble:43 - 27
+2025-03-22 16:08:37 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 16:08:37 INFO  com_testcase_datatble:43 - 27
+2025-03-22 16:10:19 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 16:10:19 INFO  com_testcase_datatble:43 - 27
+2025-03-22 16:19:08 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 16:19:08 INFO  com_testcase_datatble:44 - 27
+2025-03-22 16:30:25 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 16:34:36 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 16:37:08 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+<<<<<<< HEAD
+>>>>>>> 2360ba2b0c90ed861eb24a5c46880c050b35dcd4
+=======
+2025-03-22 16:58:55 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-22 17:01:30 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:27:00 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:28:27 INFO  driverIntializer:22 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+<<<<<<< HEAD
+>>>>>>> 9564857c1d7cbfe5d8da5dffdf2d6490a9983a1f
+=======
+2025-03-23 07:44:07 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:44:07 INFO  com_testcase_mousehover:43 - excution started
+2025-03-23 07:44:07 INFO  com_testcase_mousehover:45 - mousehover
+2025-03-23 07:44:07 INFO  com_testcase_mousehover:47 - mousehover completed
+2025-03-23 07:46:15 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:46:15 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-23 07:46:17 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-03-23 07:46:17 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-03-23 07:46:18 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-03-23 07:46:18 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+2025-03-23 07:47:56 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:47:56 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-23 07:47:57 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-03-23 07:47:57 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-03-23 07:47:58 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-03-23 07:47:58 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+2025-03-23 07:49:07 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:49:08 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-23 07:49:10 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-03-23 07:49:11 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-03-23 07:49:11 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-03-23 07:49:12 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+2025-03-23 07:56:05 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 07:56:05 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-03-23 07:56:06 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-03-23 07:56:07 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-03-23 07:56:07 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-03-23 07:56:08 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+2025-03-23 08:12:46 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:14:33 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:15:50 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:16:34 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:20:41 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:28:57 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-23 08:30:12 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+<<<<<<< HEAD
+>>>>>>> e5dafbe138ad3fc19b3f1608af3cc4907a8270c6
+=======
+2025-03-29 07:24:31 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:25:14 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:35:43 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:36:29 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:39:44 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:41:24 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:44:54 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:45:26 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:53:23 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 07:54:17 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:02:00 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:06:14 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:11:25 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:13:10 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:22:56 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:34:02 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:49:20 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:49:58 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:57:53 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 08:59:30 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 09:00:34 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 09:02:14 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 09:03:40 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-03-29 09:04:46 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+<<<<<<< HEAD
+>>>>>>> f7f65676c65d7b08b8235788cd42d3d85bd23254
+2025-04-12 08:21:33 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:21:38 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:21:40 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:13 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:16 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:19 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:30 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:33 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:22:39 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:24:59 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:04 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:07 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:28 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:36 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:40 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:49 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:25:51 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:26:21 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:26:27 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:27:04 INFO  com_testcase_mousehover:43 - excution started
+=======
+2025-04-05 15:50:31 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-05 15:50:52 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-05 15:51:40 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-05 15:54:50 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-05 16:07:28 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:06:03 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-12 08:06:04 INFO  com_testcase_registerpage:41 - ***************This Steps included adding the data for ContactInformation***************
+2025-04-12 08:06:07 INFO  com_testcase_registerpage:42 - User enters Firstname and the Xpath isneelam
+2025-04-12 08:06:09 INFO  com_testcase_registerpage:44 - User enters lastname and the Xpath istest
+2025-04-12 08:06:10 INFO  com_testcase_registerpage:46 - User enters phone and the Xpath isneelam
+2025-04-12 08:06:10 INFO  com_testcase_registerpage:48 - ***************This Steps ended for ContactInformation***************
+<<<<<<< HEAD
+>>>>>>> 1c6828245f819098706fc73ee834ac8a47812b5d
+=======
+2025-04-19 08:28:26 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-19 08:41:19 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-19 08:42:22 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-19 08:54:26 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-19 08:56:29 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+<<<<<<< HEAD
+>>>>>>> 4e8e99c059bd628c912aa0ceb8b0f31087aca5d0
+=======
+2025-04-20 08:13:35 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-20 08:15:50 INFO  driverIntializer:26 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-20 08:24:06 INFO  driverIntializer:34 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-20 08:26:36 INFO  driverIntializer:34 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-20 09:12:03 INFO  com_testcase_calender:42 - My status code for post req is 200
+2025-04-20 09:12:03 INFO  com_testcase_calender:43 - My status body for post req is {
+    "id": "ff808181932badb601965149f8a527be",
+    "name": "Apple MacBook Pro 16",
+    "createdAt": "2025-04-20T03:42:04.454+00:00",
+    "data": {
+        "year": 2019,
+        "price": 1849.99,
+        "CPU model": "Intel Core i9",
+        "Hard disk size": "1 TB"
+    }
+}
+2025-04-20 09:29:11 INFO  com_testcase_calender:34 - My status code for post req is 200
+2025-04-20 09:29:12 INFO  com_testcase_calender:35 - My status body for post req is {
+    "id": "ff808181932badb601965159aa2f27ca",
+    "name": "Apple MacBook Pro 16",
+    "createdAt": "2025-04-20T03:59:12.943+00:00",
+    "data": {
+        "year": 2019,
+        "price": 1849.99,
+        "CPU model": "Intel Core i9",
+        "Hard disk size": "1 TB"
+    }
+}
+>>>>>>> 8995f19fd0e65f9c7002b98853a7bc927153e551
+2025-04-27 10:22:48 INFO  driverIntializer:28 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-27 10:22:48 INFO  com_testcase_MMT_login:54 - ***************This Steps included selection the data for Flight resevation***************
+2025-04-27 10:26:32 INFO  driverIntializer:28 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-27 10:37:56 INFO  driverIntializer:28 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-27 10:37:56 INFO  com_testcase_MMT_login:54 - ***************This Steps included selection the data for Flight resevation***************
+2025-04-27 10:39:35 INFO  driverIntializer:28 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-27 10:39:35 INFO  com_testcase_MMT_login:54 - ***************This Steps included selection the data for Flight resevation***************
+2025-04-27 10:48:43 INFO  driverIntializer:28 - User is on the Register Page with URL Used is :=>https://demo.guru99.com/test/newtours/register.php
+2025-04-27 10:48:43 INFO  com_testcase_MMT_login:54 - ***************This Steps included selection the data for Flight resevation***************

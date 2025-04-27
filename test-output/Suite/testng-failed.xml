@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+<<<<<<< HEAD
+=======
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+>>>>>>> 4e8e99c059bd628c912aa0ceb8b0f31087aca5d0
+    <classes>
+      <class name="TestCases.com_testcase_brokenlink">
+        <methods>
+<<<<<<< HEAD
+          <include name="registerPageNavigation"/>
+          <include name="enterMailingInformation"/>
+          <include name="enterContactInformation"/>
+          <include name="closeBrowser"/>
+          <include name="enterUserInformation"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_registerpage -->
+      <class name="TestCases.com_testcase_verifyframe">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="handleframe"/>
+          <include name="registerPageNavigation"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_verifyframe -->
+      <class name="TestCases.com_testcase_download_upload">
+        <methods>
+          <include name="enterContactInformation"/>
+          <include name="closeBrowser"/>
+          <include name="registerPageNavigation"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_download_upload -->
+      <class name="TestCases.com_testcase_verifyAlert">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="enterMessageInalert"/>
+          <include name="handleAert"/>
+          <include name="registerPageNavigation"/>
+          <include name="handleConfirmAert"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_verifyAlert -->
+      <class name="TestCases.com_testcase_mousehover">
+        <methods>
+          <include name="registerPageNavigation"/>
+          <include name="enterContactInformation"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_mousehover -->
+      <class name="TestCases.com_testcase_switchgToWindow">
+        <methods>
+          <include name="registerPageNavigation"/>
+          <include name="navigateToNewWindow"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_switchgToWindow -->
+=======
+          <include name="enterContactInformation2"/>
+        </methods>
+      </class> <!-- TestCases.com_testcase_brokenlink -->
+>>>>>>> 4e8e99c059bd628c912aa0ceb8b0f31087aca5d0
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

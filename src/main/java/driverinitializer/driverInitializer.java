@@ -7,13 +7,14 @@ import org.openqa.selenium.edge.EdgeDriver;
 import reusableData.reusableData;
 
 public class driverInitializer {
-	static WebDriver  driver;
+	public static WebDriver  driver;
 	public static void launchDriver(String url) {
 		
 		if (reusableData.browserCategory.equals("Chrome"))
 				{
 			System.setProperty(reusableData.chromedriverType, reusableData.chromedriverPath);
 			 driver = new ChromeDriver();
+			 driver.manage().window().maximize();
 			driver.get(url);
 			
 		} 
@@ -21,6 +22,7 @@ public class driverInitializer {
 		{
 			System.setProperty(reusableData.edgedriverType, reusableData.edgedriverPath);
 			 driver = new EdgeDriver();
+			 driver.manage().window().maximize();
 			driver.get(url);
 		}
 		else {
